@@ -6,11 +6,16 @@
 
 <div align="center">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align='left'><em>I am Currently Freelancing <a href="#"><> From Home <>
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</div>
 
-</em></p>
+I am Currently Freelancing <a href="#"><> From Home <>
+<p align='left'>
+<em>
+
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+</div>
+</em>
+</p>
 
 
 <div align="center">
