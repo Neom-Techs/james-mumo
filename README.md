@@ -53,7 +53,7 @@
 <em>Interested in Hiring me? Reach Out!!! 
 <br/>I Love Undertaking New Projects
  <br/> 📞   +254 743 597 468
-<br/> 💌   mumojames98@gmail.com
+<br/> 💌   mumojames98@gmail.com </em>
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
@@ -69,7 +69,7 @@
 ##
 
 <div align="center">
-<h2> 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 </h2>
+<h2> Currently Working On </h2>
 
 -A BlockChain E-Commerce Web App. <br/>
 -An Android Parking Spot App With Flutter.
