@@ -45,6 +45,7 @@
 </div>
 
 
+<div align="center">
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 <!-- - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
@@ -53,6 +54,11 @@
 - `fancy-qrcode` - Fancy QRCode generator for Web. -->
 
 ## My 𝗦𝘁𝗮𝘁𝘀
+
+
+
+
+</div>
 
 <div align="center">
 
