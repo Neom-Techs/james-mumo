@@ -64,7 +64,7 @@
 </div>
 
 </div>
-![](https://komarev.com/ghpvc/?username=james-mumo)
+[](https://komarev.com/ghpvc/?username=james-mumo)
 
 ##
 
