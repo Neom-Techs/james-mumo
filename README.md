@@ -17,7 +17,7 @@
 </p>
 
 
-<div align="left">
+<div align="center">
 <h3> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h3>
 
 
