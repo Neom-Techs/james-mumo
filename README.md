@@ -1,10 +1,10 @@
 
 <h2 align="center">
-
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Friend🖐, I'm James Mumo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Friend🖐, I'm James Mumo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
+<p><em>I am Currently Freelancing <a href="https://www.footloose.io/"><> From Home </>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 </em></p>
@@ -48,6 +48,10 @@
 
 ## My 𝗦𝘁𝗮𝘁𝘀
 
+<div align="center">
+
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=james-mumo&show_icons=true&theme=dracula)
+
+</div>
 
 
