@@ -50,7 +50,7 @@
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 <p>
-<em>Interested in Hiring me? 
+<em>Interested in Hiring me? <br/>
 -- 📞 +254 743 597 468
 -- 💌 +mumojames98@gmail.com
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
