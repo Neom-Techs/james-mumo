@@ -5,12 +5,11 @@
 
 
 <div align="center">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2> I am Currently Freelancing <a href="#"><> From Home <> </h2> -->
 
-I am Currently Freelancing <a href="#"><> From Home <>
 <p align='left'>
 <em>
-
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 </div>
