@@ -18,6 +18,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs) -->
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+</p>
 
 
 <!-- ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff) -->
@@ -49,6 +50,4 @@
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=james-mumo&show_icons=true&theme=dracula)
 
-
-</p>
 
