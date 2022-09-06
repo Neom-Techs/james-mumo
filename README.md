@@ -5,8 +5,8 @@
 
 
 <div align="center">
-<img align='' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>I am Currently Freelancing <a href="#"><> From Home <>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align='left'><em>I am Currently Freelancing <a href="#"><> From Home <>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </div>
 
